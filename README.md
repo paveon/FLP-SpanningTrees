@@ -1,4 +1,4 @@
-# [BUT FIT 2020] FLP (Functional and Logic programming) project no. 2
+# [VUT FIT 2020] FLP (Functional and Logic programming) project no. 2
 
 Assignment: Finding all spanning trees of undirected graphs in Prolog
 
